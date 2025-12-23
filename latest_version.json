@@ -1,5 +1,5 @@
 {
-    "version": "1.1.1",
-    "download_url": "https://github.com/earywen/geotoolbox-dist/releases/latest",
-    "message": "HOTFIX v1.1.1 : Correction critique de la sauvegarde des fichiers (Dossier introuvable) + Nouveautés v1.1.0."
+    "version": "2.0.0",
+    "download_url": "https://github.com/earywen/geotoolbox/releases/latest",
+    "message": "🎨 MAJOR UPDATE 2.0.0 : Refonte complète de l'interface (Glassmorphism), nouveau module About, optimisations techniques et séparation du code."
 }
